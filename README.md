@@ -1,4 +1,3 @@
-# Pipeline_Processor_RISCV
 # RV32I 5-Stage Pipeline Processor
 
 Welcome to the RV32I 5-Stage Pipeline Processor repository! This repository hosts the implementation of a highly efficient processor design based on the RISC-V ISA (Instruction Set Architecture), focusing on the RV32I subset. The RV32I instruction set is particularly well-suited for educational purposes, embedded systems, and various other applications due to its simplicity and versatility.
